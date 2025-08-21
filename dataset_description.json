@@ -3,7 +3,9 @@
     "BIDSVersion": "v1.10.0",
     "License": "CC0",
     "DatasetType": "derivative",
-    "Authors": [],
+    "Authors": [
+        "anonymous"
+    ],
     "ReferencesAndLinks": [
         ""
     ],
